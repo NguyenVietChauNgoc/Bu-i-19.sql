@@ -108,6 +108,6 @@ SELECT
   END AS outlier_status
 FROM
   public.sales_dataset_rfm_prj, IQR;
-
+EX6 
 
 
